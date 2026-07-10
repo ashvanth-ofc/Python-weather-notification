@@ -39,6 +39,7 @@ while True:
    try:
         city = input('Enter city name: ')
         if city.lower() == 'exit':
+            print("Thank you for using")
             break
         send_notification(city)
    except:
