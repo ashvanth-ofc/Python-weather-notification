@@ -19,5 +19,5 @@ A simple Python application that fetches real-time weather data using the Open-M
 
 ```bash
 pip install requests plyer
-python weather.py
+python notificaationpy.py
 ```
